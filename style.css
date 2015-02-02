@@ -1990,4 +1990,9 @@ button:hover {
     height: 60%;
   }
 
+  .previous-arrow {
+    position: absolute;
+    left: 0;
+  }
+
 }
